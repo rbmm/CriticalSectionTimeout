@@ -66,6 +66,7 @@ and only at #i >= 3 it call `RtlpPossibleDeadlock`
 (so timeout by fact multiple on 3)
 
 this api call `SendMessageToWERService`
+[!m](mp.png)
 
 and then, if `RaiseExceptionOnPossibleDeadlock` is true - `STATUS_POSSIBLE_DEADLOCK` is raised.
 
