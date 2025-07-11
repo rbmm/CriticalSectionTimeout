@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35303.130
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Scst", "Scst\Scst.vcxproj", "{9D7EEEE1-D650-C9F2-0409-0C3C2BCEFEE5}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "CsDeadLock", "CsDeadLock\CsDeadLock.vcxproj", "{44BA2F67-AA08-CD3F-8829-A22E59B4524C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9D7EEEE1-D650-C9F2-0409-0C3C2BCEFEE5}.Release|x64.ActiveCfg = Release|x64
+		{9D7EEEE1-D650-C9F2-0409-0C3C2BCEFEE5}.Release|x64.Build.0 = Release|x64
+		{9D7EEEE1-D650-C9F2-0409-0C3C2BCEFEE5}.Release|x86.ActiveCfg = Release|Win32
+		{9D7EEEE1-D650-C9F2-0409-0C3C2BCEFEE5}.Release|x86.Build.0 = Release|Win32
+		{44BA2F67-AA08-CD3F-8829-A22E59B4524C}.Release|x64.ActiveCfg = Release|x64
+		{44BA2F67-AA08-CD3F-8829-A22E59B4524C}.Release|x64.Build.0 = Release|x64
+		{44BA2F67-AA08-CD3F-8829-A22E59B4524C}.Release|x86.ActiveCfg = Release|Win32
+		{44BA2F67-AA08-CD3F-8829-A22E59B4524C}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		            SolutionGuid = {80B18789-2ECF-47FE-A35C-FBA2F85928EA}
+		        SolutionGuid = {5C43FF36-EEA7-4C75-B922-01379AADF7D7}
+	EndGlobalSection
+EndGlobal
